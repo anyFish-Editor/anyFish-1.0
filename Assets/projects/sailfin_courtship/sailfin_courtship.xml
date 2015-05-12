@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <projectName>sailfin_courtship</projectName>
+  <projectFolderPath>C:/Users/Jon/Documents/Development/AnyfishGit/AnyfishEditor/Assets\projects\sailfin_courtship</projectFolderPath>
+  <type>0</type>
+  <tankDimensions>
+    <x>145</x>
+    <y>200</y>
+    <z>410</z>
+  </tankDimensions>
+  <dialFrames>16</dialFrames>
+  <snapshotPer>4</snapshotPer>
+  <backgroundR>255</backgroundR>
+  <backgroundG>245</backgroundG>
+  <backgroundB>175</backgroundB>
+</ProjectData>

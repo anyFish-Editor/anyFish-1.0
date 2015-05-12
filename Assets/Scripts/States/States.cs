@@ -1,0 +1,1 @@
+public enum States {ProjectSelector, ProjectEditor, AnimationEditor, AnimationPlayback, BatchRenderer};
